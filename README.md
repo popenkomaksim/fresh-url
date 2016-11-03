@@ -47,7 +47,7 @@ Right now, Fresh URL supports these libraries:
 - [Pardot](http://pardot.com) (pardot): Salesforce's sales automation product
 - [HubSpot](http://hubspot.com) (hubspot): Boston-based marketing automation
 - [Clicky](http://clicky.com) (clicky): Realtime web analytics
-- [Analytics.js] (analyticsJs): Segment.io's universal analytics solution
+- [Analytics.js](https://segment.com/): Segment.com's universal analytics solution
 
 
 ## Configuration
